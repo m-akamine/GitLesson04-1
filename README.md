@@ -17,7 +17,7 @@
 * s21018  「[fate](https://anime.fate-go.jp/ep7-tv/)」  
 * s21019  「[暗殺教室](https://www.ansatsu-anime.com/)」
 * s21020  「[86-エイティシックス-](https://anime-86.com/)」  
-* s21021  
+* s21021  「[ONE PIECE](https://xn--gck3an4dt260bnjua.gamematome.jp/game/968/wiki/%E3%82%B7%E3%83%BC%E3%83%B3%E3%82%AB%E3%83%BC%E3%83%89_%E3%83%AC%E3%82%A2%E5%BA%A6%EF%BC%88%E2%98%852%EF%BC%89_%EF%BC%95%E5%84%84%E3%81%A7%E8%B2%B7%E3%81%86%E3%81%88%EF%BD%9E%EF%BD%9E%21%EF%BC%88%E3%83%81%E3%83%A3%E3%83%AB%E3%83%AD%E3%82%B9%E8%81%96%EF%BC%89)」 
 * s21022  「[うちの３姉妹](https://ameblo.jp/pmatsumoto/)」
 * s21023  「[コードギアス反逆のルルーシュ](https://geass.jp/first/)」
 * s21025  「[かぐや様は告らせたい](https://kaguya.love/)」
