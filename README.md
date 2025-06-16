@@ -25,6 +25,7 @@
 * s24001 [WIND BREAKER](https://wb-anime.net/)
 * s24017
 * s24020
-* s24006
+* s24006 おすすめのアニメ:[｢蛍火の杜へ｣](https://www.hotarubi.info/story/index.html)
 * s24022
 * s24027
+
