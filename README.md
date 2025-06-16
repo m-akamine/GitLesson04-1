@@ -6,7 +6,7 @@
 * s24010
 * s24028
 * s24011
-* s24013
+* s24013 [DEATH NOTE](https://www.ntv.co.jp/deathnote "DEATH NOTE")
 * s24009 [アイドルマスター](https://www.idolmaster-anime.jp/tv/index2.html)
 * s24012
 * s24015
